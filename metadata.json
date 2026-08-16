@@ -1,0 +1,6 @@
+{
+  "name": "TickVault 2.0 - High-Speed Dukascopy Tick Engine",
+  "description": "High-performance rate-limit immune tick data engine with concurrent pipelined download & decode streaming, arbitrary custom timeframes (seconds to monthly), IndexedDB client caching, TradingView charts, and FxReplay high-speed bar replay testing sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
